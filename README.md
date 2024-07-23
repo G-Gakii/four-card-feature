@@ -28,11 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop preview](https://github.com/G-Gakii/four-card-feature/blob/main/images/screnshoot/Screenshot%202024-07-24%20at%2001.28.12.png)
+![mobile-preview](https://github.com/G-Gakii/four-card-feature/blob/main/images/screnshoot/Screenshot%202024-07-24%20at%2001.29.03.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://four-card-feature-ashy.vercel.app/)
 - Live Site URL: (http://127.0.0.1:5500/index.html#)
 
 ## My process
